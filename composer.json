@@ -1,0 +1,22 @@
+{
+  "name": "sourcebroker/deployer-typo3",
+  "description": "",
+  "license": "MIT",
+  "require": {
+    "sourcebroker/deployer-typo3-deploy": "^0.0.1",
+    "sourcebroker/deployer-typo3-deploy-ci": "^0.0.1",
+    "sourcebroker/deployer-typo3-database": "^0.0.3",
+    "sourcebroker/deployer-typo3-media": "^0.0.2"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "allow-plugins": {
+      "helhum/dotenv-connector": true,
+      "typo3/class-alias-loader": true,
+      "typo3/cms-composer-installers": true
+    }
+  }
+}
