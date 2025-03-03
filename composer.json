@@ -3,10 +3,10 @@
   "description": "",
   "license": "MIT",
   "require": {
-    "sourcebroker/deployer-typo3-deploy": "^0.1.0",
-    "sourcebroker/deployer-typo3-deploy-ci": "^0.1.0",
-    "sourcebroker/deployer-typo3-database": "^0.0.3",
-    "sourcebroker/deployer-typo3-media": "^0.0.2"
+    "sourcebroker/deployer-typo3-deploy": "^0.2.0",
+    "sourcebroker/deployer-typo3-deploy-ci": "^0.2.0",
+    "sourcebroker/deployer-typo3-database": "^0.0.4",
+    "sourcebroker/deployer-typo3-media": "^0.0.3"
   },
   "minimum-stability": "stable",
   "prefer-stable": true,
