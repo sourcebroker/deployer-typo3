@@ -3,8 +3,8 @@
   "description": "",
   "license": "MIT",
   "require": {
-    "sourcebroker/deployer-typo3-deploy": "^0.2.0",
-    "sourcebroker/deployer-typo3-deploy-ci": "^0.2.0",
+    "sourcebroker/deployer-typo3-deploy": "^0.4.0",
+    "sourcebroker/deployer-typo3-deploy-ci": "^0.4.0",
     "sourcebroker/deployer-typo3-database": "^0.0.4",
     "sourcebroker/deployer-typo3-media": "^0.0.3"
   },
